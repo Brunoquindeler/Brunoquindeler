@@ -1,4 +1,8 @@
 <p align="center">
+  :octocat: :octocat: :octocat:
+</p>
+
+<p align="center">
   <img src="/WelcomeGH.png">
 </p>
 
@@ -43,3 +47,7 @@
 </p>
 
 <!--[![Facebook](/facebook.png)](https://facebook.com/brunoquindeler) -->
+
+<p align="center">
+  :octocat: :octocat: :octocat:
+</p>
