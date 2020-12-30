@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  :octocat::octocat::octocat:
+  :octocat: :octocat: :octocat:
 </p>
 
 <h2>🔭 I’m currently working on ... </h2>
@@ -29,7 +29,7 @@
 <p align="center">
   <a href="https://facebook.com/brunoquindeler" target="_blank"><img src="/facebook.png"></a> 
   <a href="https://instagram.com/brunoquindeler" target="_blank"><img src="/instagram.png"></a>  
-  <a href="https://linkedin.com/brunofq" target="_blank"><img src="/linkedin.png"></a>
+  <a href="https://linkedin.com/in/brunofq" target="_blank"><img src="/linkedin.png"></a>
   <a href="https://twitter.com/BQuindeler" target="_blank"><img src="/twitter.png"></a>
   <a href="https://api.whatsapp.com/send?phone=5522981183060&text=Ol%C3%A1%2C%20Bruno%20Quindeler!!" target="_blank"><img src="/whatsapp.png"></a>
 </p>
