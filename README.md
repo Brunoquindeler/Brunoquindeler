@@ -26,24 +26,17 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoquindeler&layout=compact"> <!-- &layout=compact -->
 
 <h2>🔥 Contacts - Social Medias</h2>
-  <ul>
-    <li>⚡✨ Facebook</li>
-    <li>⚡✨ Instagram</li>
-    <li>⚡✨ Linkedin</li>
-    <li>⚡✨ Twitter</li>
-    <li>⚡✨ Whatsapp</li>
-  </ul>
-  
+<p align="center">
+  <a href="https://facebook.com/brunoquindeler" target="_blank"><img src="/facebook.png"></a> 
+  <a href="https://instagram.com/brunoquindeler" target="_blank"><img src="/instagram.png"></a>  
+  <a href="https://linkedin.com/brunofq" target="_blank"><img src="/linkedin.png"></a>
+  <a href="https://twitter.com/BQuindeler" target="_blank"><img src="/twitter.png"></a> 
+</p>
+
 <p align="center">
   <strong>📱 Phone:</strong> +5522981183060
   <br>
   <strong>✉️ Email:</strong> bruno.quindeler@gmail.com
-</p>
-
-<p align="center">
-  <a href="https://facebook.com/brunoquindeler" target="_blank"><img src="/facebook.png"></a> 
-  <a href="https://facebook.com/brunoquindeler" target="_blank"><img src="/facebook.png"></a>  
-  <a href="https://facebook.com/brunoquindeler" target="_blank"><img src="/facebook.png"></a> 
 </p>
 
 <!--[![Facebook](/facebook.png)](https://facebook.com/brunoquindeler) -->
