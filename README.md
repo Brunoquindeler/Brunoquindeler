@@ -1,4 +1,6 @@
-# Hi there 👋
+<p align="center">
+  <img src="/WelcomeGH.png">
+</p>
 
 <h2>🔭 I’m currently working on ... </h2>
   <ul>
