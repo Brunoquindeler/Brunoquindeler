@@ -8,7 +8,7 @@
 
 <h2>🔭 I’m currently working on ... </h2>
   <ul>
-    <li>:dart: I'm focused on learning new skills.</li>
+    <li>:dart: I'm focused on learning Web Development.</li>
   </ul>
 
 <h2>🌱 I’m currently learning ...</h2>
