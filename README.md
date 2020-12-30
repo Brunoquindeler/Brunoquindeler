@@ -6,12 +6,12 @@
   <img src="/WelcomeGH.png">
 </p>
 
-<h2>🔭 I’m currently working on ... </h2>
+<h2 align="center">🔭 I’m currently working on ... </h2>
   <ul>
     <li>:dart: I'm focused on learning Web Development.</li>
   </ul>
 
-<h2>🌱 I’m currently learning ...</h2>
+<h2 align="center">🌱 I’m currently learning ...</h2>
   <ul>
     <li>⚡✨ HTML</li>
     <li>⚡✨ CSS</li>
@@ -20,11 +20,13 @@
     <li>⚡✨ English</li>
   </ul>
 
-<h2>📊 Stats</h2>
-  <!--<img src="https://github-readme-stats.vercel.app/api?username=brunoquindeler&theme=default&how_icons=true&count_private=true">-->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoquindeler&layout=compact"> <!-- &layout=compact -->
+<h2 align="center">📊 Stats</h2>
+  <p align="center">
+    <!--<img src="https://github-readme-stats.vercel.app/api?username=brunoquindeler&theme=default&how_icons=true&count_private=true">-->
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoquindeler&layout=compact"> <!-- &layout=compact -->
+  </p>
 
-<h2>🔥 Contacts - Social Medias</h2>
+<h2 align="center">🔥 Contacts - Social Medias</h2>
 <p align="center">
   <a href="https://facebook.com/brunoquindeler" target="_blank"><img src="/facebook.png"></a> 
   <a href="https://instagram.com/brunoquindeler" target="_blank"><img src="/instagram.png"></a>  
