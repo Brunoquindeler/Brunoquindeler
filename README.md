@@ -19,10 +19,9 @@
   </ul>
   
 <hr>
- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunoquindeler&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
- 
+
+![Brunoquindeler github stats](https://github-readme-stats.vercel.app/api?username=brunoquindeler&theme=vue-dark&how_icons=true)
+
 <hr>
 
-⚡ ✨  [![HitCount](http://hits.dwyl.com/Brunoquindeler/Brunoquindeler.svg)](http://hits.dwyl.com/Brunoquindeler/Brunoquindeler) ✨ ⚡
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunoquindeler&layout=compact)
