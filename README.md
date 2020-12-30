@@ -23,7 +23,7 @@
 
 <h2>📊 Stats</h2>
   <!--<img src="https://github-readme-stats.vercel.app/api?username=brunoquindeler&theme=default&how_icons=true&count_private=true">-->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoquindeler"> <!-- layout=compact -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoquindeler&layout=compact"> <!-- &layout=compact -->
 
 <h2>🔥 Contacts - Social Medias</h2>
   <ul>
@@ -35,8 +35,8 @@
   </ul>
   
 <p align="center">
-  <strong>⚡✨ Phone:</strong> +5522981183060
+  <strong>📱 Phone:</strong> +5522981183060
   <br>
-  <strong>⚡✨ Email:</strong> bruno.quindeler@gmail.com
+  <strong>✉️ Email:</strong> bruno.quindeler@gmail.com
 </p>
   
