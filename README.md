@@ -6,12 +6,12 @@
   <img src="/WelcomeGH.png">
 </p>
 
-<h2 align="center">🔭 I’m currently working on ... </h2>
+<h2>🔭 I’m currently working on ... </h2>
   <ul>
     <li>:dart: I'm focused on learning Web Development.</li>
   </ul>
 
-<h2 align="center">🌱 I’m currently learning ...</h2>
+<h2>🌱 I’m currently learning ...</h2>
   <ul>
     <li>⚡✨ HTML</li>
     <li>⚡✨ CSS</li>
