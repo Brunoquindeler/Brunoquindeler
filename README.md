@@ -20,8 +20,8 @@
   <ul>
     <li>⚡✨ HTML</li>
     <li>⚡✨ CSS</li>
-    <li>⚡✨ JavaScript</li>
-    <li>⚡✨ Git and GitHub</li>
+    <li>⚡✨ Javascript</li>
+    <li>⚡✨ Git & Github</li>
     <li>⚡✨ English</li>
   </ul>
 
