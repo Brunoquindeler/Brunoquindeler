@@ -8,16 +8,16 @@
 
 <h2>🔭 I’m currently working on ... </h2>
   <ul>
-    <li>:dart: I'm focused on learning Web Development.</li>
+    <li><strong>:dart: I'm focused on learning Web Development.</strong></li>
   </ul>
 
 <h2>🌱 I’m currently learning ...</h2>
   <ul>
-    <li>⚡✨ HTML</li>
-    <li>⚡✨ CSS</li>
-    <li>⚡✨ Javascript</li>
-    <li>⚡✨ Git & Github</li>
-    <li>⚡✨ English</li>
+    <li><strong>⚡✨ HTML</strong></li>
+    <li><strong>⚡✨ CSS</strong></li>
+    <li><strong>⚡✨ Javascript</strong></li>
+    <li><strong>⚡✨ Git & Github</strong></li>
+    <li><strong>⚡✨ English</strong></li>
   </ul>
 
 <h2 align="center">📊 Stats</h2>
