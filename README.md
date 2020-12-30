@@ -27,9 +27,16 @@
 
 <h2>🔥 Contacts - Social Medias</h2>
   <ul>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
+    <li>⚡✨ Facebook</li>
+    <li>⚡✨ Instagram</li>
+    <li>⚡✨ Linkedin</li>
+    <li>⚡✨ Twitter</li>
+    <li>⚡✨ Whatsapp</li>
   </ul>
+  
+<p align="center">
+  <strong>Phone:</strong> +5522981183060
+  <br>
+  <strong>Email:</strong> bruno.quindeler@gmail.com
+</p>
+  
