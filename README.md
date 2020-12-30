@@ -39,4 +39,11 @@
   <br>
   <strong>✉️ Email:</strong> bruno.quindeler@gmail.com
 </p>
-  
+
+<p align="center">
+  <a href="https://facebook.com/brunoquindeler" target="_blank"><img src="/facebook.png"></a> 
+  <a href="https://facebook.com/brunoquindeler" target="_blank"><img src="/facebook.png"></a>  
+  <a href="https://facebook.com/brunoquindeler" target="_blank"><img src="/facebook.png"></a> 
+</p>
+
+<!--[![Facebook](/facebook.png)](https://facebook.com/brunoquindeler) -->
