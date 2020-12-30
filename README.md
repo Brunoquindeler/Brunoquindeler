@@ -6,11 +6,6 @@
   <img src="/WelcomeGH.png">
 </p>
 
-
-<p align="center">
-  :octocat: :octocat: :octocat:
-</p>
-
 <h2>🔭 I’m currently working on ... </h2>
   <ul>
     <li>:dart: I'm focused on learning new skills.</li>
