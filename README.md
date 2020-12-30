@@ -14,5 +14,5 @@
     <li>⚡✨ English</li>
   </ul>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=brunoquindeler&theme=vue-dark&how_icons=true">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoquindeler">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=brunoquindeler&theme=default&how_icons=true&count_private=true">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoquindeler&layout=compact">
