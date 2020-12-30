@@ -23,7 +23,7 @@
 
 <h2>📊 Stats</h2>
   <!--<img src="https://github-readme-stats.vercel.app/api?username=brunoquindeler&theme=default&how_icons=true&count_private=true">-->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoquindeler&layout=compact">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoquindeler"> <!-- layout=compact -->
 
 <h2>🔥 Contacts - Social Medias</h2>
   <ul>
