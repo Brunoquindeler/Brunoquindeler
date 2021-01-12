@@ -17,13 +17,14 @@
     <li><strong>⚡✨ CSS</strong></li>
     <li><strong>⚡✨ Javascript</strong></li>
     <li><strong>⚡✨ Git & Github</strong></li>
+    <li><strong>⚡✨ Java</strong></li>
     <li><strong>⚡✨ English</strong></li>
   </ul>
 
 <h2 align="center">📊 Stats</h2>
   <p align="center">
     <!--<img src="https://github-readme-stats.vercel.app/api?username=brunoquindeler&theme=default&how_icons=true&count_private=true">-->
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoquindeler&layout=compact"> <!-- &layout=compact -->
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoquindeler&layout=compact"> <!-- &layout=compact &theme=react -->
   </p>
 
 <h2 align="center">🔥 Contacts - Social Medias</h2>
@@ -31,7 +32,6 @@
   <a href="https://facebook.com/brunoquindeler" target="_blank"><img src="/facebook.png"></a> 
   <a href="https://instagram.com/brunoquindeler" target="_blank"><img src="/instagram.png"></a>  
   <a href="https://linkedin.com/in/brunofq" target="_blank"><img src="/linkedin.png"></a>
-  <a href="https://twitter.com/BQuindeler" target="_blank"><img src="/twitter.png"></a>
   <a href="https://api.whatsapp.com/send?phone=5522981183060&text=Ol%C3%A1%2C%20Bruno%20Quindeler!!" target="_blank"><img src="/whatsapp.png"></a>
 </p>
 
