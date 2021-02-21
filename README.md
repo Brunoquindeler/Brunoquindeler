@@ -40,7 +40,7 @@
   <br>
   <strong>✉️ Email:</strong> bruno.quindeler@gmail.com
   <br>
-  <strong>🌐 Website: <a href="https://brunoquindeler.github.io">brunoquindeler.github.io</a></strong?
+  <strong>🌐 Website: <a href="https://brunoquindeler.github.io">brunoquindeler.github.io</a></strong>
 </p>
 
 <!--[![Facebook](/facebook.png)](https://facebook.com/brunoquindeler) -->
