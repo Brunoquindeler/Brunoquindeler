@@ -17,7 +17,7 @@
     <li><strong>⚡✨ CSS</strong></li>
     <li><strong>⚡✨ Javascript</strong></li>
     <li><strong>⚡✨ Git & Github</strong></li>
-    <li><strong>⚡✨ Java</strong></li>
+    <li><strong>⚡✨ PHP</strong></li>
     <li><strong>⚡✨ English</strong></li>
   </ul>
 
