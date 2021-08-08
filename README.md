@@ -1,8 +1,3 @@
----
-title: "Description"
-date: 2021-08-08T02:25:09-03:00
----
-
 <p align="center">
   :octocat: :octocat: :octocat:
 </p>
