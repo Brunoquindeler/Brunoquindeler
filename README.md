@@ -6,7 +6,7 @@
 
 <p align="center">
     <h2>⚡Olá pessoal,⚡</h2>
-    Atualmente sou <strong>Desenvolvedor de Software Trainee</strong> na empresa <a href="https://db1global.com/"><strong>DB1 Global Software</strong></a>. Atuo em um projeto utilizando a linguagem <a href="https://golang.org"><strong>Go</strong></a>.
+    Atualmente sou <strong>Desenvolvedor de Software Trainee</strong> na empresa <a href="https://db1global.com/"  target="_blank"><strong>DB1 Global Software</strong></a>. Atuo em um projeto utilizando a linguagem <a href="https://golang.org"  target="_blank"><strong>Go</strong></a>.
 </p>
 
 ___
@@ -28,11 +28,11 @@ ___
 </p>
 
 <p align="center">
-  <strong>📱 Telefone:</strong> +5522981183060
+  <strong>📱 Telefone:</strong> <a href="tel:+5522981183060"> +5522981183060 </a>
   <br>
-  <strong>✉️ E-mail:</strong> bruno.quindeler@gmail.com
+  <strong>✉️ E-mail:</strong> <a href="mailto:bruno.quindeler@gmail.com"> bruno.quindeler@gmail.com </a>
   <br>
-  <strong>🌐 Website: <a href="https://brunoquindeler.github.io">brunoquindeler.github.io</a></strong>
+  <strong>🌐 Website: <a href="https://brunoquindeler.github.io"  target="_blank">brunoquindeler.github.io</a></strong>
 </p>
 
 <p align="center">
