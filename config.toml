@@ -1,0 +1,6 @@
+baseURL = 'http://brunoquindeler.github.io/'
+languageCode = 'pt-br'
+title = 'Bruno Quindeler'
+theme = 'hugo-theme-shell'
+[permalinks]
+    posts = '/:filename/'
