@@ -2,7 +2,11 @@
 title: "Description"
 date: 2021-08-08T02:25:09-03:00
 ---
-
+<!--<div align="center">
+    <img width="40" height="40" src="/images/octocatgh.png">
+    <img width="40" height="40" src="/images/octocatgh.png">
+    <img width="40" height="40" src="/images/octocatgh.png">
+</div>-->
 <!--<img align="left" width="130" height="130" src="/images/gopher.png">-->
 
 <p align="center">
@@ -13,10 +17,9 @@ date: 2021-08-08T02:25:09-03:00
 ___
 
 <a href="https://github.com/brunoquindeler" target="_blank">
-<h2 align="center"><img width="40" height="40" src="/images/teste.png"> Status GitHub  <img width="40" height="40" src="/images/teste.png"></h2>
   <p align="center">
-    <img width="130" height="130" src="/images/octocat.png">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoquindeler&layout=compact&theme=react"> 
+    <img width="100" height="100" src="/images/octocat.png">
+    <img width="280" height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoquindeler&layout=compact&theme=react"> 
   </p>
 </a>
 
