@@ -19,7 +19,7 @@ ___
 <a href="https://github.com/brunoquindeler" target="_blank">
   <p align="center">
     <img width="100" height="100" src="/images/octocat.png">
-    <img width="280" height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoquindeler&layout=compact&theme=react"> 
+    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoquindeler&layout=compact&theme=react"> 
   </p>
 </a>
 
