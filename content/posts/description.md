@@ -27,7 +27,7 @@ ___
 
 <h2 align="center">🔥 Contatos 🔥</h2>
 <p align="center">
-  <a href="https://facebook.com/brunoquindeler" target="_blank"><img src="/images/facebook.png"></a> 
+  <!--<a href="https://facebook.com/brunoquindeler" target="_blank"><img src="/images/facebook.png"></a> -->
   <a href="https://instagram.com/brunoquindeler" target="_blank"><img src="/images/instagram.png"></a>  
   <a href="https://linkedin.com/in/brunofq" target="_blank"><img src="/images/linkedin.png"></a>
   <a href="https://api.whatsapp.com/send?phone=5522981183060&text=Ol%C3%A1%2C%20Bruno%20Quindeler!!" target="_blank"><img src="/images/whatsapp.png"></a>
