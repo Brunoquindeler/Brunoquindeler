@@ -6,7 +6,7 @@
 
 <p align="center">
     <h2>⚡Olá pessoal,⚡</h2>
-    Atualmente sou <strong>Desenvolvedor de Software Trainee</strong> na empresa <a href="https://db1global.com/"  target="_blank"><strong>DB1 Global Software</strong></a>. Atuo em um projeto utilizando a linguagem <a href="https://golang.org"  target="_blank"><strong>Go</strong></a>.
+    Atualmente sou <strong>Desenvolvedor de Software</strong> na empresa <a href="https://db1global.com/"  target="_blank"><strong>DB1 Global Software</strong></a>. Atuo em um projeto utilizando a linguagem <a href="https://golang.org"  target="_blank"><strong>Go</strong></a>.
 </p>
 
 ___
