@@ -4,8 +4,8 @@
 
 <h2 align="center">Desenvolvedor de Software</h2>
 
-<img align="left" width="130" height="130" src="/static/images/gopher.png">
-<img align="right" width="130" height="130" src="/static/images/octocat.png">
+<div align="center"><img align="center" width="130" height="130" src="/static/images/octocat.png"></div>
+
 
 <h2 align="center">🔥 Contatos 🔥</h2>
 <p align="center">
