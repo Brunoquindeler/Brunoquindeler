@@ -17,8 +17,6 @@
   <strong>📱 Telefone: <a href="tel:+5522992146278"> +5522992146278 </a></strong>
   <br>
   <strong>✉️ E-mail: <a href="mailto:bruno.quindeler@gmail.com"> bruno.quindeler@gmail.com </a></strong>
-  <br>
-  <strong>🌐 Website: <a href="https://brunoquindeler.github.io"  target="_blank">brunoquindeler.github.io</a></strong>
 </p>
 
 <p align="center">
