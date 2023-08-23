@@ -2,7 +2,7 @@
   :octocat: :octocat: :octocat:
 </p>
 
-<h2 align="center">Software Developer</h2>
+<h2 align="center">💻 Software Developer 💻</h2>
 
 <div align="center"><img align="center" width="130" height="130" src="/static/images/octocat.png"></div>
 
