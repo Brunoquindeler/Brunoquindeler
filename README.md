@@ -6,6 +6,10 @@
 
 <div align="center"><img align="center" width="130" height="130" src="/static/images/octocat.png"></div>
 
+<h2 align="center">📊 Status GitHub 📊</h2>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoquindeler&layout=compact&theme=react"> 
+  </p>
 
 <h2 align="center">🔥 Contatos 🔥</h2>
 <p align="center">
